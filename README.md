@@ -8,6 +8,7 @@ ARTIGOS:
 Campos do feed:
 
 Declarações xml e rss: tags que definem formato, versão, codificação e namespaces. Vide primeiras linhas do Feed exemplo.
+```json
 Channel: campos exigidos pelo formato RSS. Não utilizamos estas informações.
 	|-- title: Nome do site ou categoria
 	|-- description: Descrição do site ou categoria
@@ -26,6 +27,7 @@ Channel: campos exigidos pelo formato RSS. Não utilizamos estas informações.
 		|-- media:content (opcional): contém metadados da imagem. O caminho completo deve ser informado na priopriedade url
 		    |--media:credit: atribuição do copyright da imagem, mais detalhes nas "demais considerações"
 			|--media:description: legenda da imagem
+.```			
 
 Demais considerações:
 
