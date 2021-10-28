@@ -27,7 +27,7 @@ Channel: campos exigidos pelo formato RSS. Não utilizamos estas informações.
 		|-- media:content (opcional): contém metadados da imagem. O caminho completo deve ser informado na priopriedade url
 		    |--media:credit: atribuição do copyright da imagem, mais detalhes nas "demais considerações"
 			|--media:description: legenda da imagem
-.```			
+```
 
 Demais considerações:
 
