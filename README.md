@@ -7,8 +7,8 @@ ARTIGOS:
 
 Campos do feed:
 
-Declarações xml e rss: tags que definem formato, versão, codificação e namespaces. Vide primeiras linhas do Feed exemplo.
 ```text
+Declarações xml e rss: tags que definem formato, versão, codificação e namespaces. Vide primeiras linhas do Feed exemplo.
 Channel: campos exigidos pelo formato RSS. Não utilizamos estas informações.
 	|-- title: Nome do site ou categoria
 	|-- description: Descrição do site ou categoria
