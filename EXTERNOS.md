@@ -41,8 +41,8 @@ Demais considerações:
 
 
 Artigos usados para o exemplo abaixo:
-https://agenciabrasil.ebc.com.br/saude/noticia/2022-01/covid-19-ministro-da-saude-pede-que-se-reforcem-cuidados-na-vacinacao
-https://agenciabrasil.ebc.com.br/esportes/noticia/2022-01/primeira-fase-da-copa-do-brasil-tem-confrontos-definidos-por-sorteio
+- https://agenciabrasil.ebc.com.br/saude/noticia/2022-01/covid-19-ministro-da-saude-pede-que-se-reforcem-cuidados-na-vacinacao
+- https://agenciabrasil.ebc.com.br/esportes/noticia/2022-01/primeira-fase-da-copa-do-brasil-tem-confrontos-definidos-por-sorteio
 
 
 
