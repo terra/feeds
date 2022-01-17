@@ -50,27 +50,27 @@ Feed:
 ```xml
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
-<channel>
-<title>Agência Brasil</title>
-<description>Agência pública de notícias da EBC. Informações sobre política, economia, educação, direitos humanos e outros assuntos.</description>
-<link>https://agenciabrasil.ebc.com.br/
-<lastBuildDate>Tue, 4 Jan 2022 11:16:11 -0300</lastBuildDate>
-<item>
-<title>Covid-19: ministro da Saúde pede que se reforcem cuidados na vacinação</title>
-<link>https://agenciabrasil.ebc.com.br/saude/noticia/2022-01/covid-19-ministro-da-saude-pede-que-se-reforcem-cuidados-na-vacinacao
-<guid isPermaLink="false">5891</guid>
-<category>Saúde</category>
-<enclosure url="https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/008_1.jpg" length="1" type="image/jpeg"/>
-<pubDate>Tue, 4 Jan 2022 11:15:10 -0300</pubDate>
-</item>
-<item>
-<title>Primeira fase da Copa do Brasil tem confrontos definidos por sorteio</title>
-<link>https://agenciabrasil.ebc.com.br/esportes/noticia/2022-01/primeira-fase-da-copa-do-brasil-tem-confrontos-definidos-por-sorteio
-<guid isPermaLink="false">5890</guid>
-<category>Esportes</category>
-<enclosure url="https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/copa_do_brasil_primeira_fase_2022.jpeg" length="1" type="image/jpeg"/>
-<pubDate>Tue, 4 Jan 2022 11:14:55 -0300</pubDate>
-</item>
-</channel>
+    <channel>
+        <title>Agência Brasil</title>
+        <description>Agência pública de notícias da EBC. Informações sobre política, economia, educação, direitos humanos e outros assuntos.</description>
+        <link>https://agenciabrasil.ebc.com.br/
+        <lastBuildDate>Tue, 4 Jan 2022 11:16:11 -0300</lastBuildDate>
+        <item>
+            <title>Covid-19: ministro da Saúde pede que se reforcem cuidados na vacinação</title>
+            <link>https://agenciabrasil.ebc.com.br/saude/noticia/2022-01/covid-19-ministro-da-saude-pede-que-se-reforcem-cuidados-na-vacinacao
+            <guid isPermaLink="false">5891</guid>
+            <category>Saúde</category>
+            <enclosure url="https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/008_1.jpg" length="1" type="image/jpeg"/>
+            <pubDate>Tue, 4 Jan 2022 11:15:10 -0300</pubDate>
+        </item>
+            <item>
+            <title>Primeira fase da Copa do Brasil tem confrontos definidos por sorteio</title>
+            <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2022-01/primeira-fase-da-copa-do-brasil-tem-confrontos-definidos-por-sorteio
+            <guid isPermaLink="false">5890</guid>
+            <category>Esportes</category>
+            <enclosure url="https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/copa_do_brasil_primeira_fase_2022.jpeg" length="1" type="image/jpeg"/>
+            <pubDate>Tue, 4 Jan 2022 11:14:55 -0300</pubDate>
+        </item>
+    </channel>
 </rss>
 ```
