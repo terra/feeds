@@ -16,17 +16,17 @@ Campos do feed:
 ```text
 Declarações xml e rss: tags que definem formato, versão, codificação e namespaces. Vide primeiras linhas do Feed exemplo.
 Channel: campos exigidos pelo formato RSS. Não utilizamos estas informações.
-|-- title: Nome do site ou categoria
-|-- description: Descrição do site ou categoria
-|-- link: Link do site ou categoria
-|-- lastBuildDate (opcional): data de última atualização do feed, no formato RFC-822. Ex: Tue, 18 May 2021 17:14:00 -0300
-| Item:
-|-- title: título do artigo
-|-- link: url do artigo
-|-- guid: deve ser único e imutável, podendo ser um id ou um permalink (importante informar na propriedade isPermaLink). É com este campo que sabemos se criamos um card novo no nosso site ou atualizamos um existente
-|-- category: categoria(s) do conteúdo. Pode ser uma campo com as categorias separadas por vírgula, ou usar um campo por categoria
-|-- pubDate: data de publicação/atualização do conteúdo, no formato RFC-822. Ex: Tue, 18 May 2021 17:14:00 -0300
-|-- enclosure: URL da imagem representativa do conteúdo que ilustrará o card
+    |-- title: Nome do site ou categoria
+    |-- description: Descrição do site ou categoria
+    |-- link: Link do site ou categoria
+    |-- lastBuildDate (opcional): data de última atualização do feed, no formato RFC-822. Ex: Tue, 18 May 2021 17:14:00 -0300
+    | Item:
+        |-- title: título do artigo
+        |-- link: url do artigo
+        |-- guid: deve ser único e imutável, podendo ser um id ou um permalink (importante informar na propriedade isPermaLink). É com este campo que sabemos se criamos um card novo no nosso site ou atualizamos um existente
+        |-- category: categoria(s) do conteúdo. Pode ser uma campo com as categorias separadas por vírgula, ou usar um campo por categoria
+        |-- pubDate: data de publicação/atualização do conteúdo, no formato RFC-822. Ex: Tue, 18 May 2021 17:14:00 -0300
+        |-- enclosure: URL da imagem representativa do conteúdo que ilustrará o card
 ```
 
 
