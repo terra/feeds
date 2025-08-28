@@ -25,7 +25,7 @@ Channel: campos exigidos pelo formato RSS. Não utilizamos estas informações.
 		|-- media:content: contém metadados do vídeo
 			|-- url: caminho completo do vídeo (.mp4)
 			|-- type: tipo do arquivo (ex: video/mp4)
-			|-- duration: duração do vídeo em segundos
+			|-- duration: duração do vídeo em segundos (opcional)
 			|-- media:thumbnail: imagem de capa do vídeo
 ```
 
@@ -33,7 +33,7 @@ Demais considerações:
 
 - A thumbnail deve estar em boa resolução e representar visualmente o conteúdo do vídeo.
 - O vídeo deve estar disponível publicamente e em formato compatível (preferencialmente `.mp4`).
-- A duração do vídeo deve ser informada em segundos no atributo `duration`.
+- A duração do vídeo deve ser informada em segundos no atributo `duration`. Informação opcional.
 - O conteúdo do campo `description` deve ser textual e informativo, evitando repetições ou excesso de hashtags.
 - O campo `dc:type` pode ser usado para indicar o tipo de vídeo (ex: short, entrevista, cobertura ao vivo).
 - O campo `category` pode conter múltiplas categorias separadas por vírgula ou múltiplos campos `category`.
